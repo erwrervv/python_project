@@ -19,7 +19,7 @@
 本專案使用 `uv` 進行虛擬環境與套件管理。
 
 1.  **安裝依賴**: `uv add 套件名稱`
-2.  **執行專案**: `uv run python ./lesson6/app.py`
+2.  **執行專案**: `uv run python ./app/app.py`
 
 ### 開發規範
 
